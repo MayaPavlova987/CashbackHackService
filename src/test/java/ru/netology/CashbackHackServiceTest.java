@@ -1,11 +1,13 @@
 package ru.netology;
 
-import org.testng.Assert;
-import org.testng.annotations.Test;
+import junit.framework.TestCase;
+import org.junit.Test;
+import org.junit.Assert;
 
-import static org.testng.Assert.*;
 
 public class CashbackHackServiceTest {
+
+
 
 
     @Test
